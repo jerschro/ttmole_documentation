@@ -1,5 +1,10 @@
 site_name: TTMolE Documentation
 
+on:
+  push:
+    branches:
+      - main
+
 nav:
   - Home : index.md
   - Import Structure : import_new.md
