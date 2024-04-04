@@ -1,0 +1,81 @@
+site_name: TTMolE Documentation
+
+nav:
+  - Home : index.md
+  - Import Structure : import_new.md
+  # - Create a Molecule : create_a_molecule.md
+  - Create Stack : create_stack.md
+  - Add Molecule to Structure : import_append.md
+  - Hydrate Surface : hydrate_surface.md
+  # - Resort Molecule : resort_molecule.md
+  - Versions : versions.md
+  - Help Menu Text : help_menu.md
+  - Todo Page: todo.md
+
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+    - navigate.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: blue
+      accent: purple
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: blue
+      accent: lime
+
+
+plugins:
+  - search
+  - mkdocstrings
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
+
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:jeremynschroeder@gmail.com
+    - icon: fontawesome/solid/t
+      link: https://www.depts.ttu.edu/me/combustionlab/
+
+copyright: |
+  &copy; 2024 Jeremy Schroeder
