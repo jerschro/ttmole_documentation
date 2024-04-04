@@ -32,7 +32,7 @@ nav:
   - Home : index.md
   - Import Structure : import_new.md
   # - Create a Molecule : create_a_molecule.md
-  - Create Stack : create_stack.md
+  - Create a Stack : create_stack.md
   - Add Molecule to Structure : import_append.md
   - Hydrate Surface : hydrate_surface.md
   # - Resort Molecule : resort_molecule.md
