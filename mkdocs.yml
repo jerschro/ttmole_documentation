@@ -47,7 +47,7 @@ theme:
 
 plugins:
   - search
-  - mkdocstrings
+  # - mkdocstrings
   - glightbox:
       touchNavigation: true
       loop: false
