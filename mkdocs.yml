@@ -1,4 +1,9 @@
 site_name: TTMolE Documentation
+site_url: https://jerschro.github.io/ttmole_documentation/
+site_author: Jeremy Schroeder
+site_description: Documentation for python-based program for editing and creating molecular structures.
+repo_name: jerschro/ttmole_documentation
+repo_url: https://github.com/jerschro/ttmole_documentation
 
 nav:
   - Home : index.md
