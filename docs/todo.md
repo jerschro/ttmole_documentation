@@ -9,6 +9,7 @@
 6. Add more settings variables about matplotlib defaults and radius
 7. Maybe create menu that edits matplotvisualize data and saves it as a json format?
 8. Add coords function with ABCMolecule is not working correctly and not placing molecule in center of unit cell.
+9. Create a google form for a bug tracker and bug tracker page.
 
 
 # From word document
