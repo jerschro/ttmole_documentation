@@ -15,7 +15,7 @@ nav:
   # - Resort Molecule : resort_molecule.md
   - Versions : versions.md
   - Help Menu Text : help_menu.md
-  - Todo Page: todo.md
+  # - Todo Page: todo.md
 
 
 theme:
@@ -36,18 +36,24 @@ theme:
     - content.code.copy
   language: en
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: blue
       accent: purple
-    - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: blue
       accent: lime
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
 
 
 plugins:

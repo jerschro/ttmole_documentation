@@ -6,9 +6,10 @@ Version under development : 1.0.3
 
 This is a python based program created to help in the creation of molecular files for theoretical chemistry programs like VASP, TURBOMOLE, LAMMPS, ORCA, SIESTA and GAUSSIAN. 
 
-Any feedback or bugs please email jerschro@ttu.edu or jeremynschroeder@gmail.com
+Any feedback please email jerschro@ttu.edu or jeremynschroeder@gmail.com
 Created by Jeremy Schroeder © 2024
 
+For Reporting Bugs go to [https://github.com/jerschro/ttmole_documentation/issues](https://github.com/jerschro/ttmole_documentation/issues) and create a new issue.
 
 ## How to run TTMole
 
