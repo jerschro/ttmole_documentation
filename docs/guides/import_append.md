@@ -2,14 +2,14 @@
 
 ### 1. First load the surface (either slab or cluster model) into the editor. This example is an  alumina slab model.
 
-![Slab](images/import_append/import_append_1.jpg)
+![Slab](../images/import_append/import_append_1.jpg)
 
 ### 2. Then open Import - From File (Append). Options for each import absorbent setting:
 
-![Absorbent Menu](images/import_append/import_append_2.jpg)
+![Absorbent Menu](../images/import_append/import_append_2.jpg)
 
 
-![Annotated Absorbent Menu](images/import_append/import_append_3.jpg)
+![Annotated Absorbent Menu](../images/import_append/import_append_3.jpg)
 
 1. Dropdown options are 'Above' and 'Below'. This box designates which direction the new molecule is added in.
 
@@ -39,4 +39,4 @@
 
 ### 4. New Molecule is added exactly where you designated it to be and is selected automatically. A H2O molecule was added precisely in the middle of the cluster model on the positive z face.
 
-![Absorbent Added](images/import_append/import_append_4.jpg)
+![Absorbent Added](../images/import_append/import_append_4.jpg)
