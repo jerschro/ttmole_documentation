@@ -2,37 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jerschro.github.io/ttmole_documentation/</loc>
-         <lastmod>2024-04-14</lastmod>
+         <lastmod>2024-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jerschro.github.io/ttmole_documentation/create_stack/</loc>
-         <lastmod>2024-04-14</lastmod>
+         <loc>https://jerschro.github.io/ttmole_documentation/bugs_suggestions/</loc>
+         <lastmod>2024-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jerschro.github.io/ttmole_documentation/help_menu/</loc>
-         <lastmod>2024-04-14</lastmod>
+         <loc>https://jerschro.github.io/ttmole_documentation/installation/</loc>
+         <lastmod>2024-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jerschro.github.io/ttmole_documentation/hydrate_surface/</loc>
-         <lastmod>2024-04-14</lastmod>
+         <loc>https://jerschro.github.io/ttmole_documentation/intro/</loc>
+         <lastmod>2024-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jerschro.github.io/ttmole_documentation/import_append/</loc>
-         <lastmod>2024-04-14</lastmod>
+         <loc>https://jerschro.github.io/ttmole_documentation/sitemap/</loc>
+         <lastmod>2024-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jerschro.github.io/ttmole_documentation/import_new/</loc>
-         <lastmod>2024-04-14</lastmod>
+         <loc>https://jerschro.github.io/ttmole_documentation/guides/</loc>
+         <lastmod>2024-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jerschro.github.io/ttmole_documentation/versions/</loc>
-         <lastmod>2024-04-14</lastmod>
+         <loc>https://jerschro.github.io/ttmole_documentation/guides/create_stack/</loc>
+         <lastmod>2024-06-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jerschro.github.io/ttmole_documentation/guides/hydrate_surface/</loc>
+         <lastmod>2024-06-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jerschro.github.io/ttmole_documentation/guides/import_append/</loc>
+         <lastmod>2024-06-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jerschro.github.io/ttmole_documentation/guides/import_new/</loc>
+         <lastmod>2024-06-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
