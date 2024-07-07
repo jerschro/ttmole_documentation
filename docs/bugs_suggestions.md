@@ -1,3 +1,9 @@
+---
+hide:
+  - toc
+  - navigation
+---
+[:fontawesome-solid-house:](index.md) :fontawesome-solid-angle-right: **Bugs & Suggestions**
 # TTMolE Bugs
 
 For Reporting Bugs go to [https://github.com/jerschro/ttmole_documentation/issues](https://github.com/jerschro/ttmole_documentation/issues) and create a new issue.

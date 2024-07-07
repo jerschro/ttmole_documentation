@@ -1,6 +1,10 @@
+---
+hide:
+  - navigation
+---
 # Welcome to TTMolE Documentation
 
-Version Currently Released : 1.0.2
+## Version Currently Released : 1.0.2
 
 This is a python based program created to help in the creation of molecular files for theoretical chemistry programs like VASP, TURBOMOLE, LAMMPS, ORCA, SIESTA and GAUSSIAN. 
 

@@ -1,3 +1,11 @@
+---
+hide:
+  - toc
+  - navigation
+---
+[:fontawesome-solid-house:](index.md) :fontawesome-solid-angle-right: **Installation**
+# Installation
+
 ## How to Install
 
 1. Download TTMolE.exe and run.

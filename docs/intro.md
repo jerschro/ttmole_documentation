@@ -1,3 +1,10 @@
+---
+hide:
+  - navigation
+---
+[:fontawesome-solid-house:](index.md) :fontawesome-solid-angle-right: **Introduction**
+# Introduction
+
 ## Welcome to TTMolE
 
 This is a open-source program for pre-processing DFT calculations.
